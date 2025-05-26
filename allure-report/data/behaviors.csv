@@ -1,0 +1,8 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"1","","0","","1","1","","0"
+"0","AutomationExercise","0","Login","2","0","Login with invalid credentials","0"
+"0","AutomationExercise","0","Cart","1","0","Add product and verify in cart","0"
+"0","AutomationExercise","0","Signup","1","0","Signup with valid data","0"
+"0","AutomationExercise","0","Products","1","0","Add first product to cart","0"
+"0","AutomationExercise","1","Login","1","0","Login with valid credentials","0"
+"0","AutomationExercise","0","Contact Us","1","0","Submit contact form with valid data","0"

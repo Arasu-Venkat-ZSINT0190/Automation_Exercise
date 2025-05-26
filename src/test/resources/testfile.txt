@@ -1,0 +1,5 @@
+This is a test file.
+It contains a few lines of text.
+Used for basic testing purposes.
+Includes simple words and phrases.
+End of test content.
