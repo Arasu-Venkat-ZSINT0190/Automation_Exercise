@@ -16,7 +16,7 @@ public class LoginTest extends TestBase {
     public void testValidLogin() {
         driver.get("https://automationexercise.com/login");
         LoginPage loginPage = new LoginPage(driver);
-        loginPage.enterEmail("arasubhv@gmail.com");  // Replace with valid user
+        loginPage.enterEmail("arasubhv@gmail.com");
         loginPage.enterPassword("12345");
         loginPage.clickLogin();
 

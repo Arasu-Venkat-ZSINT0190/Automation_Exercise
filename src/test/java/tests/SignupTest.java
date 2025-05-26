@@ -27,7 +27,7 @@ public class SignupTest extends TestBase {
         String address1 = FakeDataGenerator.getAddress();
         String address2 = FakeDataGenerator.getAddress();
         String city = FakeDataGenerator.getCity();
-        String state = "California"; // You can randomize if needed
+        String state = "California";
         String zipcode = FakeDataGenerator.getZip();
         String mobile = FakeDataGenerator.getMobileNumber();
 
@@ -39,7 +39,7 @@ public class SignupTest extends TestBase {
         // Step 2 - Account info
         signup.selectTitleMr();
         signup.enterPassword(password);
-        signup.selectDateOfBirth("10", "May", "1990"); // You can randomize DOB if needed
+        signup.selectDateOfBirth("10", "May", "1990");
         signup.enterFirstName(firstName);
         signup.enterLastName(lastName);
         signup.enterCompany("TestCompany");
