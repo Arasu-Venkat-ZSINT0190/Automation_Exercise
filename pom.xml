@@ -12,6 +12,9 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <sonar.projectKey>automation-framework</sonar.projectKey>
+  <sonar.host.url>http://localhost:9000</sonar.host.url>
+  <sonar.login>sqp_fdae9f4a4394f60c90bccf2e38270197eef35624</sonar.login>
     </properties>
 
     <dependencies>
