@@ -16,7 +16,7 @@ public class SignupPage {
         PageFactory.initElements(driver, this);
     }
 
-    // Step 1 fields
+
     @FindBy(xpath = "//input[@data-qa='signup-name']")
     private WebElement inputName;
 
